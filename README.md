@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/zerkken/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/zerkken/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/zerkken/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/zerkken/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/zerkken/legion-del-mal?cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
